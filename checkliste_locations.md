@@ -20,7 +20,7 @@
 
 1. This check list helps us to be on the same page about our expectations and is for all the locations:
 - No Catering (please no pizza either), just some snacks
-- Only non alcoholic beverages till the retrospective at the end of the event (Wasser, Mate, usw)
+- Only non alcoholic beverages till the retrospective at the end of the event (water, Mate, usw)
 - No recruiter at the event 
 - Please comply with our CoC
 - Hardware: We need Flip Charts; we bring our own postIts and markers. For the attendees it would be nice to provide some pens and paper.
