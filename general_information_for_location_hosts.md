@@ -8,7 +8,7 @@ A typical event lasts until **10pm the latest**, which includes time to clean up
 The following checklist outlines our expectations for a location for our events:
 - No Catering (please no pizza either) unless specifically agreed on. Snacks (the healthier, the better) are fine. Please note that all food served should be vegetarian. It would also be awesome if information about allergenes is provided to the attendees.
 - Please only serve non-alcoholic beverages (water and sodas) until we officially close the event.
-- No recruiters at our events.
+- We do not want active recruiting taking place at our events.
 - We expect everyone, including the location hosts, to comply with our [values](https://github.com/swkBerlin/values/blob/master/safe_environment.md).
 - We usually need **Flip Charts**; we bring our own Post-Its and markers. We'd appreciate if you could provide pen and paper for the attendees.
 - Room Setup
