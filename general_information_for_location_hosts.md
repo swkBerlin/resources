@@ -1,12 +1,12 @@
 # General information for locations
 
-This document serves as general information about how we run events at locations. If you have any questions, feel free to approach us [via mail](mailto:swkberlin-orga@googlegroups.com).
+*This document serves as general information about how we run events at locations. If you have any questions, feel free to approach us [via mail](mailto:swkberlin-orga@googlegroups.com).*
 
 Our events usually start at **7pm**, however usually, attendees start to arrive earlier. At least one of our organizers will join at around **6.30pm** to set up everything.   
 A typical event lasts until **10pm the latest**, which includes time to clean up the location. We appreciate companies hosting us and strive to leave a clean space behind. Our attendees are asked to help clean up the space as well.
 
 The following checklist outlines our expectations for a location for our events:
-- No Catering (please no pizza either) unless specifically agreed on. Snacks (the healthier, the better) are fine. Please note that all food served should be vegetarian. It would also be awesome if information about allergenes is provided to the attendees.
+- No Catering (please no pizza either) unless specifically agreed on. Snacks (the healthier, the better) are fine. Please note that all food served should be vegetarian. It would also be awesome if information about allergens is provided to the attendees.
 - Please only serve non-alcoholic beverages (water and sodas) until we officially close the event.
 - We do not want active recruiting taking place at our events.
 - We expect everyone, including the location hosts, to comply with our [values](https://github.com/swkBerlin/values/blob/master/safe_environment.md).
