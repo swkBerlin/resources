@@ -8,6 +8,7 @@ A repository open to contributions about the way we run our events, general reso
 - [Information for Location Hosts](https://github.com/swkBerlin/resources/blob/master/general_information_for_location_hosts.md)
 - All about running [a kata](https://github.com/swkBerlin/resources/tree/master/kata)
 - All about running [a Lean Coffee](https://github.com/swkBerlin/resources/tree/master/lean-coffee)
+- All about running [a Coderetreat](https://github.com/swkBerlin/resources/tree/master/coderetreat)
 
 ## Contributions
 
