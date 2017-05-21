@@ -1,6 +1,6 @@
 # Roundtable: Lean Coffee
 
-Join us for a [Lean Coffee](http://agilecoffee.com/leancoffee/s) - a roundtable to talk about new technologies, team dynamics, agile methodologies, software design considerations - you name it!
+Join us for a [Lean Coffee](http://agilecoffee.com/leancoffee/) - a roundtable to talk about new technologies, team dynamics, agile methodologies, software design considerations - you name it!
 
 Bring your ideas and we’ll take care of the rest!
 
