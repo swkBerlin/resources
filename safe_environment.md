@@ -23,4 +23,4 @@ To further our mission of making our events a supportive, non-threatening enviro
   - We promote inclusive learning spaces. We encourage anyone who is feeling less than familiar with terminology, concepts, or context to ask questions in the spirit of personal growth.
 
 ## Sources
-This definition has heavily borrowed from [Values of the SoCraTes Conference](https://www.socrates-conference.de/values.html) and the [Safe Space Policy of LadyHacks](http://ladyhacks.org/about/safe-space-policy).
+This definition has heavily borrowed from [Values of the SoCraTes Conference](https://www.socrates-conference.de/values) and the [Safe Space Policy of LadyHacks](http://ladyhacks.org/about/safe-space-policy).
